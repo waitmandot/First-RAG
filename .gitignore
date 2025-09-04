@@ -1,5 +1,6 @@
 # Arquivos de ambiente
 .env
+.idea
 
 # Cache do Python
 __pycache__/
