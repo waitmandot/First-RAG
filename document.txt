@@ -1,0 +1,44 @@
+The Colossus computer was constructed in England in 1943 to decode messages
+transmitted by the Germans during the Second World War. Alan M. Turing, the famous
+British mathematician, helped in the development of the world's first electronic computer.
+An ENIGMA machine that was used by the Germans to encode messages had fallen into
+the hands of the British Intelligence. Huge amounts of computation were needed to break
+coded messages. The development of Colossus was kept secret for many years.
+
+Howard H. Aiken of Harvard University (in cooperation with IBM) produced in 1944 an
+all-electronic calculator based on relays for the development of ballistic charts by the
+U.S. Navy. The Mark I calculator occupied very substantial space and included about 500
+miles of wiring. Electromagnetic signals were used to drive mechanical parts. Grace
+Murray Hopper was a famous programmer of Mark I at the Harvard Computation Center;
+she was a U.S. Navy lieutenant.
+
+The Second World War forced several governments to put serious effort in the
+development of electronic computers for the design of missiles and aircraft, and message
+decoding. Such a powerful computer was the Electronic Numerical Integrator And
+Computer (ENIAC) that was developed for the U.S. government at the University of
+Pennsylvania by John Presper Eckert, Jr. and John W. Mauchly. With their staff of
+fourteen people, they worked on the design and construction of ENIAC from 1943 to
+1945. They were located at the Moore School of Electrical Engineering in the University
+of Pennsylvania. ENIAC's first application was in nuclear science for the Manhattan
+Project. It contained about 18,000 vacuum tubes, 70,000 resistors, and 1,500 relays. It
+consumed 160 KiloWatts of electrical power and weighted 30 tons. Its large power
+consumption was the result of a large number of vacuum tubes. Vacuum tubes contain a
+heater element that displaces electrons. The heater burns out after a few thousand hours
+of operation. ENIAC was running without faults for one to two days, on the average. It
+performed about 5,000 operations per second. It was about 1,000 times faster than Mark I
+and was developed as a general-purpose computer. It had only twenty memory locations
+that each could store a signed 10-digit decimal number.
+
+To program the ENIAC, individual units had to be connected together with wires, and
+switches were set appropriately to control the sequence of operations. Mauchly met
+Atanasoff in 1940 and they exchanged ideas about electronic computers. As discussed
+earlier, a U.S. federal judge decided in 1973 that the ENIAC was based on several design
+concepts introduced earlier by Atanasoff. However, the 100,000 pulses per second
+decimal ENIAC yielded better performance than Atanasoff's 60 pulses per second ABC
+binary machine. The core of the ENIAC programmers consisted of six women, called
+"computers." It was in operation for ten years, from November 1945 until October 1955.
+It operated at the Moore School until 1947 in the "direct programming" rewiring mode. It
+was then moved to the Ballistics Research Laboratory (BRL) of the Aberdeen Proving
+Ground in Maryland, where it operated in the "converter code" mode. The ENIAC
+computer produced the correct solution to problems only 54% of the time while at BRL.
+Mauchly claimed that the value was 90% while the ENIAC was at the Moore School.
