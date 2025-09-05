@@ -1,5 +1,3 @@
-## -------------------------
-
 # README — Local RAG with Ollama
 
 *A beginner-friendly and technical introduction to see AI working in practice*
