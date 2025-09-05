@@ -19,6 +19,7 @@ Here you will find Python code that implements a **local RAG**. RAG means *Retri
 </p>
 Source: https://www.dio.me/articles/engenharia-de-prompts-para-ia-desafios-estrategias-e-oportunidades
 
+
 The focus is educational: to understand the building blocks that make up an AI application without depending on cloud services or complex frameworks.
 
 ---
