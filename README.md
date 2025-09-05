@@ -14,6 +14,11 @@ Welcome. This repository brings a simple and didactic example of a local RAG sys
 
 Here you will find Python code that implements a **local RAG**. RAG means *Retrieval Augmented Generation*, which is just a way of saying that a text generator (a Large Language Model) uses relevant documents found by search to provide better answers. In this project everything runs locally with a server called **Ollama**, which provides embeddings and text generation from models installed on your machine.
 
+<p align="center">
+  <img src="./images/prompt_structure.png" alt="Comparison of the number of parameters between AI models" width="600"/>
+</p>
+Source: https://www.dio.me/articles/engenharia-de-prompts-para-ia-desafios-estrategias-e-oportunidades
+
 The focus is educational: to understand the building blocks that make up an AI application without depending on cloud services or complex frameworks.
 
 ---
@@ -36,6 +41,11 @@ Before running the code, it’s worth understanding the main terms:
 * **RAG (Retrieval Augmented Generation)**: A combination of retrieval (finding the right text pieces) with generation (producing a response). This approach improves factual accuracy.
 * **Indexing**: Saving embeddings and text chunks so you don’t have to recompute them every time.
 
+<p align="center">
+  <img src="./images/3d_embeddings.png" alt="Comparison of the number of parameters between AI models" width="600"/>
+</p>
+Source: https://www.linkedin.com/pulse/embeddings-e-bancos-de-dados-vetoriais-revolu%C3%A7%C3%A3o-da-busca-lacerda-mb1uf/
+
 ---
 
 ## Types of LLMs
@@ -57,6 +67,12 @@ Not all LLMs are the same. They can serve different purposes:
 When evaluating or choosing an LLM, two important aspects matter:
 
 * **Parameters**: These are the weights of the model, essentially the learned "knowledge." A model with 7B parameters (like LLaMA-7B) is usually more capable than one with 1B, but also requires more memory and compute. Parameters are often read directly from the model card or description, e.g., “Mistral-7B” → 7 billion parameters.
+
+<p align="center">
+  <img src="./images/parameters_comparison.jpg" alt="Comparison of the number of parameters between AI models" width="600"/>
+</p>
+Source: https://pub.towardsai.net/size-matters-how-big-is-too-big-for-an-llm-289e6ff35ee6
+
 * **Context Window**: This defines how much text (tokens) the model can “see” at once. For example, 2k tokens ≈ a few pages of text, while 128k tokens ≈ an entire book.
 
   * **Advantages of a larger window**: The model can handle longer conversations and documents without forgetting earlier context.
