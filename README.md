@@ -2,8 +2,6 @@
 
 # README — Local RAG with Ollama
 
----
-
 *A beginner-friendly and technical introduction to see AI working in practice*
 
 Welcome. This repository brings a simple and didactic example of a local RAG system. The idea is to show, step by step and without mystery, how a text can be split, transformed into vectors (embeddings), searched by similarity, and used as context to generate intelligent answers. It is a starting point for learning and experimentation, not a production-ready solution.
