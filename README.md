@@ -1,4 +1,4 @@
----
+## -------------------------
 
 # README — Local RAG with Ollama
 
